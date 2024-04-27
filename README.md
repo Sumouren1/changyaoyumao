@@ -1,4 +1,4 @@
-# :pencil:中大猫谱（笃行猫谱）
+# :pencil:广药与猫（龙井是公猫）
 
 *——拍照记录校园内猫猫的成长轨迹* :cat::smiley_cat::heart_eyes_cat:
 
@@ -54,7 +54,7 @@ Laf版暂时没有录制部署视频，部署流程请参考：[猫谱Laf版文�
 
     Laf云是一个开源的云开发平台，可以私有部署到自己的服务器上，也可以使用目前Laf官方的付费资源，约13元/月。
 
-国内高校同学可以免费使用，参考文档进行申请：[【腾讯文档】中大猫谱-Laf高校代金券计划](https://docs.qq.com/doc/DSGhxbVhuUnJqaUhF)
+
 
 # :dancers:开发团队
 
@@ -64,7 +64,7 @@ Laf版暂时没有录制部署视频，部署流程请参考：[猫谱Laf版文�
 
 :black_nib:UI设计：蓝卷、[Junius](https://github.com/JunDeer)、[yw](https://github.com/WondrousWisdomcard)
 
-:notebook:资料整理：笃行志愿服务队及各校区小伙伴
+:notebook:资料整理：各校区小伙伴
 
 如果你有新的想法或建议，非常欢迎你在QQ群/issue板块发起讨论，或者提交代码PR。
 
